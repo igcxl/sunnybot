@@ -4,7 +4,7 @@
     "navbar": {
         "title": "SunnyBot",
         "logo": {
-            "alt": "my_site logo",
+            "alt": "SunnyBot logo",
             "src": "/static/image/logo.png"
         },
         "home_url": "/",
