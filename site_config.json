@@ -1,6 +1,6 @@
 {
     "site_name": "SunnyBot",
-    "site_slogon": "",
+    "site_slogon": "SunnyBot知识库",
     "site_root_url": "/",
     "site_domain": "doc.sunnybot.cn",
     "site_protocol": "https",
