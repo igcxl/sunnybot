@@ -1,8 +1,8 @@
 
 ---
-title: my_site
-keywords: my_site
-desc: my_site, 使用 teedoc 生成的网站
+title: SunnyBot
+keywords: SunnyBot
+desc: SunnyBot, 可重构教育机器人
 id: home_page
 ---
 
