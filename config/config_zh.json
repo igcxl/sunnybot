@@ -2,7 +2,7 @@
     "locale": "zh_CN",
     "class": "language_zh",
     "navbar": {
-        "title": "my_site",
+        "title": "SunnyBot",
         "logo": {
             "alt": "my_site logo",
             "src": "/static/image/logo.png"
@@ -72,13 +72,13 @@
         ],
         "bottom": [
             {
-                "label": "*ICP备********号",
+                "label": "浙ICP备15045003号-4",
                 "url": "https://beian.miit.gov.cn",
                 "target": "_blank"
             },
             {
-                "label": "*公网安备***********号",
-                "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=****************",
+                "label": "SunnyBot",
+                "url": "http://doc.sunnybot.cn",
                 "target": "_blank"
             }
         ]
